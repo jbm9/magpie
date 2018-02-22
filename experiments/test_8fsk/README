@@ -1,3 +1,6 @@
+Current status: this isn't working, and I haven't had a chance to
+actually iterate on it just yet.
+
 This is an experiment to use 8-FSK to do a very inefficient form of
 error correction.  It's meant more as a testbed for getting a higher
 bitrate than as an actual FEC strategy.
